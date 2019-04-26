@@ -1,4 +1,6 @@
-﻿<settings>		
+﻿<?xml  version="1.0" encoding="UFT-8" standalone="yes"?>
+
+<settings>		
   <category label="Información Red-TV">
        	<setting type="lsep" label="[COLOR lime]Versión del Addon Actualizado 24/04/2019[/COLOR]" option="close" action="RunPlugin(plugin://plugin.video.Red-TV/?mode=7)" />
         <setting type="lsep" label="[COLOR yellow]Facebook:[/COLOR] www.facebook.com/Red-TV.kodi" option="close" action="RunPlugin(plugin://plugin.video.Red-TV/?mode=7)" />
@@ -7,7 +9,8 @@
 		<setting type="lsep" label="[COLOR yellow]Web:[/COLOR] http://Red-TVkodi.com" option="close" action="RunPlugin(plugin://plugin.video.Red-TV/?mode=7)" />
 		<setting type="lsep" label="[COLOR yellow]Grupo Telegram:[/COLOR] @kodiRed-TV" option="close" action="RunPlugin(plugin://plugin.video.Red-TV/?mode=7)" />
  </category>
- 
+
+ </category> 
 	 <category label="Configurar Cuenta">
      <setting id="kasutajanimi" type="text" label="Usuario" default=""/>
      <setting id="salasona" type="text" option="writeable,hidden" label="Contraseña" default=""/>
@@ -23,10 +26,6 @@
         <setting id="genesisorpulsar" type="enum" values="Genesis|Pulsar" label="Play IMDBid with:" default="Genesis"visible="false"/>
         <setting id="donotshowbychannels" label="Ocultar Canales" type="bool" default="false" visible="false"/>
   </category>
-  
-  <category label="Configurar Cuenta">
-     <setting id="kasutajanimi" type="text" label="Usuario" default=""/>
-     <setting id="salasona" type="text" option="writeable,hidden" label="Contraseña" default=""/>
 </settings>
 
 
