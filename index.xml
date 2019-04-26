@@ -40,4 +40,10 @@
   <externallink>https://raw.githubusercontent.com/red-tv/repo/master/settings.xml</externallink>
   </item>
   
+  </category> 
+	 <category label="Configurar Cuenta">
+     <setting id="kasutajanimi" type="text" label="Usuario" default=""/>
+     <setting id="salasona" type="text" option="writeable,hidden" label="Contraseña" default=""/>
+</category>
+  
   
