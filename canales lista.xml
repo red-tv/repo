@@ -1,0 +1,17 @@
+<?xml  version="1.0" encoding="UFT-8" standalone="yes"?>
+
+  <item>		
+  <title>Canal 1</title>
+  <urlsolve>http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8</urlsolve>
+  <fanart>https://mexico.mom-rsf.org/uploads/tx_lfrogmom/media/11514-1329_import.png</fanart>  
+  <epg></epg>
+  </item>
+  
+  <item>		
+  <title>Canal 2</title>
+  <externallink>http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8</externallink>
+  <fanart>https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png</fanart>  
+  </item>
+  
+  
+  
