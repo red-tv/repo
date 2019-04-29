@@ -8,15 +8,16 @@
   </item>
   
   <item>		
-  <title>PRUEBA 1 </title>
-  <link>https://pastebin.com/raw/BztvXSy2</link>
+  <title>PRUEBA 1 paste</title>
+  <link>https://ignorame</link>
+  <externallink>https://pastebin.com/raw/PjyYxDzK</externallink>
   <fanart>https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png</fanart>  
   </item>
   
    <item>		
-  <title>PRUEBA 2 </title>
+  <title>PRUEBA 2 git</title>
   <link>https://ignorame</link>
-  <urlsolve>https://pastebin.com/raw/BztvXSy2</urlsolve>
+  <externallink>https://raw.githubusercontent.com/red-tv/repo/master/canales%20lista.xml</externallink>
   <fanart>https://mexico.mom-rsf.org/uploads/tx_lfrogmom/media/11514-1329_import.png</fanart>  
   <epg><script type="text/javascript" src="https://cdn.mitvstatic.com/assets/res/1552904932928c704f7037414a5bd98f2466a699aa.js" charset="UTF-8"></script></epg>
   </item>
